@@ -1,6 +1,6 @@
 Vetala	O
 started	O
-narrating	COMMUNICATION
+narrating	B-COMMUNICATION
 him	O
 a	O
 story	O
@@ -16,7 +16,7 @@ journey	O
 .	O
 
 Vetala	O
-happily	COGNITIVE-MENTAL-STATE
+happily	B-COGNITIVE-MENTAL-STATE
 grants	O
 the	O
 boons	O
@@ -37,7 +37,7 @@ carrying	O
 her	O
 child	O
 ,	O
-went	MOVEMENT
+went	B-MOVEMENT
 to	O
 the	O
 future	O
