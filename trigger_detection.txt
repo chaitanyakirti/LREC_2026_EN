@@ -1,6 +1,6 @@
 Vetala	O
 started	O
-narrating	EVENT
+narrating	B-EVENT
 him	O
 a	O
 story	O
@@ -22,13 +22,13 @@ time	O
 the	O
 princess	O
 gets	O
-married	EVENT
+married	B-EVENT
 to	O
 father	O
 and	O
 the	O
 queen	O
-marries	EVENT
+marries	B-EVENT
 the	O
 son	O
 .	O
@@ -46,7 +46,7 @@ long	O
 time	O
 and	O
 they	O
-approached	EVENT
+approached	B-EVENT
 a	O
 tantric	O
 .	O
